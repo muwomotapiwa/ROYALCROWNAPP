@@ -1,0 +1,11 @@
+﻿{
+  "expo": {
+    "name": "ROYALCROWNAPP",
+    "slug": "royalcrownapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "scheme": "royalcrownapp"
+  }
+}
